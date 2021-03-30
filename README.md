@@ -1,2 +1,2 @@
-Coronavirus Tracker app
+# Coronavirus Tracker app
 
